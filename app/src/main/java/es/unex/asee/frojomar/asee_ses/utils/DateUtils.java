@@ -14,6 +14,14 @@ import java.util.TimeZone;
 public class DateUtils {
 
     //private static final String FORMAT_DATE="dd-MMM-yyyy,hh:mm aa";
+    //Simulación de implementacion del CU15 Implement Components Rol AS
+    //Simulacion de implementación del CU15 Implement Components Rol DS
+    //Simulación de implementación del CU15 Test Components Rol DS
+    //Simulacion de implementación del CU15 Test Components Rol DJ
+    //Simulación de la implementación del CU16 Implement Components Rol AS
+    //Simulación de la implementación del CU16 Implement Components Rol DS
+    //Simulación de la implementación del CU16 Test Components Rol DS
+    //Simulación de la implementación del CU16 Test Components Rol DJ
     private static final String FORMAT_TIME = "HH:mm:ss:SSS";
     private static final String FORMAT_DATE = "d-MMM-yyyy,HH:mm:ss aa";
     private static final String FORMAT_DATE_2 = "yyyy-MM-dd'T'hh:mm";
